@@ -10,7 +10,7 @@
     "react-cam": "^1.1.11",
     "react-dom": "^16.13.1",
     "react-html5-camera-photo": "^1.5.4",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
